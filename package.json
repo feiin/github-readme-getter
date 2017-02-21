@@ -1,0 +1,23 @@
+{
+  "name": "github-readme-getter",
+  "version": "1.0.0",
+  "description": "get the Github readme.md",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feiin/github-readme-getter.git"
+  },
+  "keywords": [
+    "github",
+    "readme"
+  ],
+  "author": "feiin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/feiin/github-readme-getter/issues"
+  },
+  "homepage": "https://github.com/feiin/github-readme-getter#readme"
+}
