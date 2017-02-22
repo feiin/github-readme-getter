@@ -19,5 +19,12 @@
   "bugs": {
     "url": "https://github.com/feiin/github-readme-getter/issues"
   },
-  "homepage": "https://github.com/feiin/github-readme-getter#readme"
+  "homepage": "https://github.com/feiin/github-readme-getter#readme",
+  "dependencies": {
+    "request": "^2.79.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0",
+    "should": "^11.2.0"
+  }
 }
